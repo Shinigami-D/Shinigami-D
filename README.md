@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Shinigami-D
+- 👀 I’m interested in learning how to code in python and cybersecurity!
+- 🌱 I’m currently learning python and kali linux OS
+- 💞️ I’m looking to collaborate on whatever! I just want to learn new things and improve my skills as a coder
+- 📫 How to reach me I will probably check this every so often so...
+- ⚡ Fun fact: I run track and field at the college I attend.
